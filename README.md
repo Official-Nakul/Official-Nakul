@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Official-Nakul
 - 👀 I’m interested in learning <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Natural Language Processing</b>
-- 🌱 I’m currently Studying in Computer Science in Artificial Intelligence 
+- 🌱 I’m currently Studying Computer Science in Artificial Intelligence 
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - -->
